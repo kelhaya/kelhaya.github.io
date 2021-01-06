@@ -1,0 +1,16 @@
+.profile-image{
+    max-width: 30%;
+    height: auto;
+    border-radius: 80%;
+}
+
+.scale_width{
+    max-width:100%;
+    height: 100%;
+    object-fit:contain
+}
+
+.UHH-image{
+    max-width: 15%;
+    height: auto;
+}
