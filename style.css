@@ -1,7 +1,8 @@
 .profile-image{
+    border-radius: 50%;
     max-width: 30%;
     height: auto;
-    border-radius: 80%;
+    
 }
 
 .scale_width{
@@ -11,6 +12,11 @@
 }
 
 .UHH-image{
+    max-width: 15%;
+    height: auto;
+}
+
+.iap-image{
     max-width: 15%;
     height: auto;
 }
